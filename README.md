@@ -4,6 +4,7 @@
 ## ```💫 About Me:```
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Science, NLP, Computer Vision and Generative AI** and I would love to discuss.
 - 📫 How to reach me? You can email me at **muhammadwasilshahzad@gmail.com**.
+- 📄 Know about my experiences? Have a look at my [Resume](https://teal-betteanne-37.tiiny.site).
 - 🎮 In my free time, I play both physical as well computer games. 
 
 ## ```🌐 Socials:```
