@@ -4,9 +4,7 @@
 ## ```💫 About Me:```
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Science, NLP, Computer Vision and Generative AI** and I would love to discuss.
 - 📫 How to reach me? You can email me at **muhammadwasilshahzad@gmail.com**.
-- 📄 Know about my experiences? Have a look at my [Resume](https://teal-betteanne-37.tiiny.site).
 - 🎮 In my free time, I play both physical as well computer games. 
-- ⚡ Please feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~01c179ecae4f468f98?mp_source=share) for consulting or discussing projects.
 
 ## ```🌐 Socials:```
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-wasil-shahzad-77141b18b/) [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01c179ecae4f468f98?mp_source=share) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ranawasilshahzad/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/wasilshahzad.shahzad.9) [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://www.threads.net/@ranawasilshahzad) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](http://Discordapp.com/users/345578372811718668) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](muhammadwasilshahzad@gmail.com) 
